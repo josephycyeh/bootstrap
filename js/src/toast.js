@@ -13,7 +13,7 @@ import {
 import EventHandler from './dom/event-handler'
 import Manipulator from './dom/manipulator'
 import BaseComponent from './base-component'
-import { enableDismissTrigger } from './util/component-functions'
+import { enableDismissTrigger } from './dom/magic-actions'
 
 /**
  * Constants
